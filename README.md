@@ -14,6 +14,6 @@
 
 Place a blank line between blocks of text do denote paragraph format. Ex:
 
---blank line--
-this is a paragraph
---blank line--
+--blank line--  
+Paragraph Text  
+ --blank line--  
